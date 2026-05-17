@@ -37,6 +37,3 @@ In this project, I used Pandas for data handling and Matplotlib for data visuali
 - Working with CSV files
 - Using graphs to understand data
 
-csv
-machine-learning
-data-visualization
